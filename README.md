@@ -23,7 +23,7 @@ Project was created with:
  * fs
  * nodemailer
 	
-## How to use
+## How to use - Currently not active
 To use this project, follow the following steps:
  1) Go to: https://multixw.herokuapp.com/?utm_source=github
  2) Wait a couple of seconds for the heroku server to start
